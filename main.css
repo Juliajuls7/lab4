@@ -1,0 +1,153 @@
+body {
+ max-width: 800px;
+ margin: 10px auto;
+ font-family: 'PT Sans', sans-serif;
+ font-size: 18px;
+ font-weight: 300;
+   background-image: url(0_1b524_7a0a196_L.jpg);
+}
+
+main, footer, txt-clr1 fw-n {
+  padding: 10px;
+}
+
+
+body>header {
+ background: #14598e;
+ padding: 10px 0 10px 10px;
+ margin-bottom: 10px;
+ font-size: 24px;
+ font-weight: bold;
+ color: white;
+}
+
+
+body>header nav {
+  text-align: center;
+}
+
+body>header a {
+  text-decoration: none;
+  padding: 8px;
+  color: white;
+}
+
+body>header nav ul {
+  padding-left: 0;
+}
+
+body>header nav ul li {
+display: inline-block;
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.news h3 {
+  text-align: center;
+}
+
+aside {
+ width: 200px;
+ background:  #e8faff;
+ float: left;
+ padding: 3px;
+ text-align:left;
+}
+
+aside a {
+    color:black;
+}
+
+.sidebar>header{
+text-align:center;
+
+}
+
+.sidebar>header a {
+  text-decoration: none;
+  padding: 8px;
+  color: white;
+}
+
+.startinfo {
+  float: left;
+}
+.logo {
+  text-align: right;
+  padding-right: 10px;
+
+}
+
+.company {
+  font-size: 1.6em;
+}
+
+
+body>header img{
+
+    width: 150px;
+    
+}
+aside ul {
+/*список жанров*/
+  list-style: none; 
+    
+  padding: 0;
+}
+
+
+aside ul li a {
+ text-decoration: none;/*подчеркивание*/ 
+}
+
+
+main {
+ background: #e8faff;
+ margin-left: 215px;
+ margin-bottom: 10px;
+}
+
+
+
+main p {
+ margin:5px;/*отступ от картинки*/
+}
+
+.endinf {
+  background:  #e8faff;
+}
+.endinf>header {
+  text-align: center;
+    
+}
+
+footer {
+ background: #14598e;
+ color: #fff;
+ margin-top: 5px;
+}
+
+hr {
+  margin: 30px 0 30px 0;
+  border: none;
+  color: #E5E5E5;
+  background-color: #E5E5E5;
+  height: 1px;
+}
+
+.endinf>header  ul li{
+display: inline-block;
+font-size: 1em;
+}
+.endinf a{
+ text-decoration: none;
+
+color:black;
+ }
+
+.endinf > ul {
+    list-style: none;
+}
+
+
+
